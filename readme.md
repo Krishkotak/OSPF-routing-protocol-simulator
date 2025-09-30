@@ -1,7 +1,7 @@
 # how to use OSPF simulator
 ### installation and running simulator
 
-    # git clone https://gitlab.com/abdijavad110/ospf-simulator.git
+    # git clone https://github.com/Krishkotak/OSPF-routing-protocol-simulator.git
     # pip install pipenv
     # cd ospf-simulator
     # pipenv sync
